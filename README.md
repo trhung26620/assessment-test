@@ -1,3 +1,45 @@
+# Quick Demo Video
+
+
+https://user-images.githubusercontent.com/65553646/230651667-7f87c937-a50a-4b3c-acd0-1ca1e92e528e.mp4
+
+# Set up 
+## Note: My Node version: 16.15.1 
+## Clone the repository
+```
+git clone https://github.com/trhung26620/assessment-test
+```
+
+## Set up backend
+```
+cd assessment-test/backend
+npm i
+```
+### Create .env file in `assessment-test/backend` directory as .env-example file
+
+![image](https://user-images.githubusercontent.com/65553646/230653062-a759feb5-d37c-4aec-9858-deacf317784c.png)
+
+### Start server
+```
+npm start
+```
+
+## Set up frontend
+```
+cd assessment-test/frontend
+npm i
+```
+### Create .env file in `assessment-test/frontend` directory as .env-example file
+![image](https://user-images.githubusercontent.com/65553646/230653984-1b813865-5a22-4378-975a-3b1bb2b1e16b.png)
+
+### Start server
+```
+npm start
+```
+
+## Enjoy
+
+
 # Full Stack Web Developer Challenge
 ## Task Description
 Your task for this challenge is to create a small search engine comprising of two parts, a web-based user interface and a server component that exposes a REST API which provides search results retrieved from a corpus of text that will be provided to you in `corpus/hemingway.txt`.
