@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/65553646/230651667-7f87c937-a50a-4b3c-
 ## Note: My Node version: 16.15.1 
 ## Clone the repository
 ```
-git clone https://github.com/trhung26620/assessment-test
+git clone https://github.com/trhung26620/assessment-test.git
 ```
 
 ## Set up backend
